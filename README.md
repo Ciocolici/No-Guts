@@ -1,5 +1,5 @@
 # No-Guts
-A C# (CSharp) Console App project. My biggest and most challenging project so far. It is a "Choose Your Own Adventure" type of game. My final examination project, for my skills to be assessed by my trainers.
+A C# (CSharp) Console App project. My biggest and most challenging project so far. It is a "Choose Your Own Adventure" type of game. My final examination project, for my skills to be evaluated by my trainers.
 
 In "AbschlussprojektAuftrag.pdf" are the instructions for the project, and in "Feedback.docx" is the feedback I received from the trainers.
 
