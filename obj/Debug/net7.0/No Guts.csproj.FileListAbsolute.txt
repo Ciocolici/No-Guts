@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\No Guts\bin\Debug\net7.0\No Guts.exe
+C:\Users\danie\Documents\GitHub\No Guts\bin\Debug\net7.0\No Guts.deps.json
+C:\Users\danie\Documents\GitHub\No Guts\bin\Debug\net7.0\No Guts.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\No Guts\bin\Debug\net7.0\No Guts.dll
+C:\Users\danie\Documents\GitHub\No Guts\bin\Debug\net7.0\No Guts.pdb
+C:\Users\danie\Documents\GitHub\No Guts\obj\Debug\net7.0\No Guts.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\No Guts\obj\Debug\net7.0\No Guts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\No Guts\obj\Debug\net7.0\No Guts.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\No Guts\obj\Debug\net7.0\No Guts.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\No Guts\obj\Debug\net7.0\No Guts.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\No Guts\obj\Debug\net7.0\No Guts.dll
+C:\Users\danie\Documents\GitHub\No Guts\obj\Debug\net7.0\refint\No Guts.dll
+C:\Users\danie\Documents\GitHub\No Guts\obj\Debug\net7.0\No Guts.pdb
+C:\Users\danie\Documents\GitHub\No Guts\obj\Debug\net7.0\No Guts.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\No Guts\obj\Debug\net7.0\ref\No Guts.dll
